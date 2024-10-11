@@ -12,7 +12,7 @@ Uniquement fonctionnel avec les systèmes d'exploration Windows pour le moment. 
 
 ## ❓ Help ❓
 
-Options de l'algo de ransomware
+Options de l'algorithme de ransomware
 
 ### -p, -path, --path : Argumment pour définir l'emplacement cible
 
