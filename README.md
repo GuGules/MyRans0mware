@@ -55,4 +55,4 @@ Active l'affichage des actions en temps réel
 
 ## Documentation de la CNIL au sujet des attaques de types rançongiciel (ou ransomware)
 
-[> Vers la documentation de la CNIL](https://www.cnil.fr/fr/cybersecurite/multiplication-des-attaques-par-rancongiciel-comment-limiter-les-risques)
+[&rarr; Vers la documentation de la CNIL](https://www.cnil.fr/fr/cybersecurite/multiplication-des-attaques-par-rancongiciel-comment-limiter-les-risques)
