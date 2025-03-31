@@ -18,7 +18,7 @@ Options de l'algorithme de ransomware
 
 ##### Par défaut : 
 
-**Windows** : C:\Users\{username}\Documents\
+**Windows** : C:\Users\\{username}\Documents\
 **Linux** : /home/{username}/ **ou** /var/www/html/ (In Progress)
 
 ### -e, -encrypt, --encrypt
@@ -33,7 +33,7 @@ Mode de déchiffrement des données, clé de chiffrement **obligatoire**
 
 ### -k, -key, --key
 
-Argument de commmande &larr; Spécifie la clé de chiffrement
+Argument de commmande &larr; Spécifie le nom de la clé de chiffrement (il faut qu'elle se trouve dans le même répertoire que le script)
 
 ### --demo, -demo
 
@@ -42,10 +42,6 @@ Activation du mode de démonstration
 #### Spécificités du mode démonstration
 
 (TODO)
-
-### --keyLength, -keyLength
-
-Si aucune clé de chiffrement n'est spécifiée, permets de spécifier la taille d'une clé de chiffrement
 
 ### -v, --verbose, -verbose
 
